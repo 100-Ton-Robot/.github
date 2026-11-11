@@ -1,6 +1,7 @@
 # 100 Ton Robot
 
-Code and assets used in 100 Ton Robot content.
+Code and assets for public sharing.  Place to publish my projects I'd like to share with others.
+It's named after our house.  Which I told my kid was a 100 ton robot covered with sensors.
 
 ## Projects
 
